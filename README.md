@@ -1,2 +1,2 @@
 # pr-deneme
-Bilgehan Zeki Ö
+Bilgehan Zeki Özaytaç
